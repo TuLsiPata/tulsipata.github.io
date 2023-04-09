@@ -1,2 +1,3 @@
-# tulsipata.github.io
-This is Our Webinfo.....
+#info@TuLsiPata
+
+We are Team X (TuLsiPata), itz our official islamic cyber team, our aim is to serve the Humanity.
